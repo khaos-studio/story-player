@@ -370,3 +370,42 @@ if (window.matchMedia) {
 
 applyTheme(themeSelect.value);
 loadProject(projectSelect.value);
+
+// Keyboard controls
+document.addEventListener('keydown', (event) => {
+    switch (event.key) {
+        case ' ':
+            // Spacebar toggles play/pause
+            event.preventDefault(); // Prevent scrolling
+            playPauseBtn.click();
+            break;
+        case 'ArrowLeft':
+            // Left arrow goes to previous event
+            prevBtn.click();
+            break;
+        case 'ArrowRight':
+            // Right arrow goes to next event
+            nextBtn.click();
+            break;
+        case 'ArrowUp':
+            // Up arrow selects previous unit
+            selectAdjacentUnit(-1);
+            break;
+        case 'ArrowDown':
+            // Down arrow selects next unit
+            selectAdjacentUnit(1);
+            break;
+    }
+});
+
+// Select adjacent unit
+function selectAdjacentUnit(direction) {
+    const unitListItems = document.querySelectorAll('#unitList li');
+    let selectedIndex = Array.from(unitListItems).findIndex(item => item.classList.contains('selected'));
+    if (selectedIndex !== -1) {
+        const newIndex = selectedIndex + direction;
+        if (newIndex >= 0 && newIndex < unitListItems.length) {
+            unitListItems[newIndex].click();
+        }
+    }
+}
