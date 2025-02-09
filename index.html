@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Interactive Story Timeline</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Top Header -->
+    <header>
+        <label for="projectSelect">Project:</label>
+        <select id="projectSelect">
+            <option value="godseye">God's Eye</option>
+            <option value="b4p">Broken in 4 Places</option>
+        </select>
+        <label for="themeSelect">Theme:</label>
+        <select id="themeSelect">
+            <option value="system">System</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+        </select>
+    </header>
+
+    <!-- Main Content: Left panel (units), Main panel (image view, active card), Right panel (raw event) -->
+    <div class="main-content">
+        <div class="panel left-panel">
+            <h3>Units</h3>
+            <ul id="unitList"></ul>
+        </div>
+        <div class="panel main-panel">
+            <div id="imageView">
+                <img src="https://placehold.co/600x400/000000/FFFCC00?text=Preview" alt="Preview Image">
+            </div>
+            <div id="activeElementCard">Select an event to view details.</div>
+            <div id="activeCaption"></div>
+        </div>
+        <div class="panel right-panel">
+            <h3>Event Details</h3>
+            <pre id="eventDetails">No event selected.</pre>
+        </div>
+    </div>
+
+    <!-- Bottom Fixed Area: Control Bar & Timeline -->
+    <div class="bottom-fixed">
+        <div class="control-bar">
+            <button id="prevBtn" title="Previous">
+                <svg width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="currentColor" d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6z" />
+                </svg>
+            </button>
+            <button id="playPauseBtn" title="Play"></button>
+            <button id="nextBtn" title="Next">
+                <svg width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="currentColor" d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6z" />
+                </svg>
+            </button>
+            <label>Zoom:
+                <input type="range" id="zoomSlider" min="5" max="50" value="10">
+            </label>
+            <div class="context" id="contextDisplay"></div>
+            <div class="timecode" id="timecodeDisplay">00:00:00:000</div>
+        </div>
+        <div class="timeline-container" id="timelineContainer">
+            <div class="timeline-track" id="timelineTrack"></div>
+            <div class="playhead" id="timelinePlayhead">
+                <div class="playhead-handle"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

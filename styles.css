@@ -1,0 +1,306 @@
+/* Reset & basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    font-family: sans-serif;
+    background: #f5f5f5;
+    color: #333;
+}
+
+/* Top Header: fixed with project selector and theme control */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background: #e0e0e0;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    z-index: 100;
+}
+
+header label {
+    margin-right: 5px;
+}
+
+header select {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background: #ccc;
+    font-size: 1em;
+    appearance: none;
+    margin-right: 10px;
+}
+
+body.dark-mode header select {
+    background: #444;
+    color: #eee;
+}
+
+/* Main content area: three panels */
+.main-content {
+    position: absolute;
+    top: 60px;
+    bottom: 160px;
+    left: 0;
+    right: 0;
+    display: flex;
+}
+
+.panel {
+    padding: 10px;
+    overflow-y: auto;
+    background: #fff;
+    color: #333;
+}
+
+.left-panel {
+    width: 20%;
+}
+
+.main-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.right-panel {
+    width: 20%;
+}
+
+#unitList {
+    list-style: none;
+}
+
+#unitList li {
+    padding: 5px;
+    cursor: pointer;
+}
+
+#unitList li.selected {
+    background: #ddd;
+}
+
+/* Updated Image View styling */
+#imageView {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+#imageView img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Active element card & caption */
+#activeElementCard {
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    flex: none;
+    overflow-y: auto;
+}
+
+#activeCaption {
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Bottom Fixed Area: control bar and timeline */
+.bottom-fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #f5f5f5;
+    z-index: 100;
+}
+
+.control-bar {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    background: #222;
+}
+
+.control-bar button {
+    margin-right: 5px;
+    padding: 5px;
+    font-size: 1em;
+    border: none;
+    border-radius: 4px;
+    background: #ddd;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.control-bar button:hover {
+    background: #ccc;
+}
+
+.control-bar label {
+    margin-left: 10px;
+    color: #fff;
+}
+
+.control-bar input[type=range] {
+    margin: 0 10px;
+}
+
+.control-bar .context {
+    flex: 1;
+    color: #fff;
+}
+
+.control-bar .timecode {
+    margin-left: auto;
+    font-family: monospace;
+    color: #fff;
+}
+
+.timeline-container {
+    position: relative;
+    height: 100px;
+    overflow-x: auto;
+    background: #fafafa;
+}
+
+.timeline-track {
+    position: relative;
+    height: 100%;
+}
+
+.unit-block {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    background: #e0f7e0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: 0.8em;
+    padding: 2px;
+    cursor: pointer;
+    color: inherit;
+}
+
+.event-block {
+    position: absolute;
+    top: 30%;
+    height: 40%;
+    background: #cce5ff;
+    border: 1px solid #525252;
+    box-sizing: border-box;
+    text-align: center;
+    overflow: hidden;
+    cursor: pointer;
+    color: inherit;
+}
+
+/* Dark Mode Overrides */
+body.dark-mode {
+    background: #1a1a1a;
+    color: #e0e0e0;
+}
+
+body.dark-mode header {
+    background: #333;
+    color: #eee;
+}
+
+body.dark-mode .panel {
+    background: #2c2c2c;
+    color: #eee;
+}
+
+body.dark-mode #activeElementCard {
+    background: #333;
+    border: 1px solid #444;
+    color: #eee;
+}
+
+body.dark-mode .control-bar {
+    background: #444;
+}
+
+body.dark-mode .control-bar button {
+    background: #444;
+    color: #eee;
+}
+
+body.dark-mode .timeline-container {
+    background: #333;
+}
+
+body.dark-mode .unit-block {
+    background: #282828;
+    color: #eee;
+}
+
+body.dark-mode .event-block {
+    background: #555555;
+    border: 1px solid #525252;
+    color: #fff;
+}
+
+body.dark-mode .event-block.dialogue {
+    background: linear-gradient(to bottom, magenta 0, magenta 4px, #525252 4px);
+}
+
+body.dark-mode .event-block.action {
+    background: linear-gradient(to bottom, green 0, green 4px, #525252 4px);
+}
+
+body.dark-mode .event-block.transition {
+    background: linear-gradient(to bottom, orange 0, orange 4px, #525252 4px);
+}
+
+body.dark-mode #unitList li {
+    background: transparent;
+    color: #eee;
+}
+
+body.dark-mode #unitList li.selected {
+    background: #ffcc00;
+    color: #000;
+}
+
+/* Playhead styling */
+.playhead {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: red;
+    z-index: 20;
+    cursor: ew-resize;
+}
+
+.playhead-handle {
+    position: absolute;
+    top: -5px;
+    left: -4px;
+    width: 10px;
+    height: 10px;
+    background: red;
+    border-radius: 50%;
+    cursor: pointer;
+}
