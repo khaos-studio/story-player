@@ -11,8 +11,8 @@ document.getElementById('playPauseBtn').innerHTML = playIcon;
 
 // Mapping project keys to JSON URLs.
 const projectUrls = {
-    godseye: 'https://khaos-machina-projectsbucketstack-1-projectsbucket-hxajzlybh6u8.s3.us-east-1.amazonaws.com/demoz/godseye.project.json',
-    b4p: 'https://khaos-machina-projectsbucketstack-1-projectsbucket-hxajzlybh6u8.s3.us-east-1.amazonaws.com/demoz/b4p.project.json'
+    godseye: 'https://raw.githubusercontent.com/khaos-studio/story-player/refs/heads/main/godseye.project.json?token=GHSAT0AAAAAAC5Z6WD4YZHPLKSPWLI4FLTIZ5JCRWQ',
+    b4p: 'https://raw.githubusercontent.com/khaos-studio/story-player/refs/heads/main/b4p.project.json?token=GHSAT0AAAAAAC5Z6WD5C4UHK5TI5H2FLCKMZ5JCQ3Q',
 };
 
 let projectData = null,
