@@ -1,21 +1,21 @@
 {
   "project": {
     "title": "TURTLE ISLAND'S TOP CLASS CLOWN",
-    "createdBy": "01JKVQVNYV4J2ZBBXEEENHM9AJ",
-    "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+    "createdBy": "01JKVR86YAMNP5GY04ZEWWB403",
+    "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
     "status": "Processing",
-    "owner": "01JKVQVNYV4J2ZBBXEEENHM9AJ",
+    "owner": "01JKVR86YAMNP5GY04ZEWWB403",
     "collaborators": []
   },
   "compositions": [
     {
       "id": "comp-0",
       "type": "composition",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "units": [
         {
           "label": "S1: EXT - INDIAN BOARDING SCHOOL - MORNING",
-          "sceneId": "01JKVQVNYWRTHYHMZXYNJ0HY7A",
+          "sceneId": "01JKVR86YCM43V1E4Z3A43THW8",
           "sceneNumber": "faef6064-64db-4cf3-a337-806efda35a07",
           "locationName": "UNKNOWN",
           "sceneHeading": "EXT - INDIAN BOARDING SCHOOL - MORNING",
@@ -34,7 +34,7 @@
         },
         {
           "label": "S2: INT - SCHOOL CLASSROOM - MORNING",
-          "sceneId": "01JKVQVNYXNMD6QNVRS6VA0TJB",
+          "sceneId": "01JKVR86YDGT0AD0ZMJJQQMKH9",
           "sceneNumber": "0d8f671c-47d0-4f7d-bde2-06cf15b22d21",
           "locationName": "UNKNOWN",
           "sceneHeading": "INT - SCHOOL CLASSROOM - MORNING",
@@ -191,106 +191,106 @@
       "id": "01JFTT916NS68EA879HJJQ915C",
       "type": "character",
       "name": "WAYA",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916NBQX0JW0SFQ3PRF2M",
       "type": "character",
       "name": "TAYANITA",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916NRQEMX3CK8KDE8DVY",
       "type": "character",
       "name": "PECAN",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916N4EF0S822RCWH4V55",
       "type": "character",
       "name": "KENJAL",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916NTSY7CRBP3HWY2H5N",
       "type": "character",
       "name": "JOSH",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916NVYPRV879FKHCYFRY",
       "type": "character",
       "name": "RUBY",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916NZXFX3XBDFB81F4EE",
       "type": "character",
       "name": "INOLA",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916NW0M8W99ZFVY2P7XM",
       "type": "character",
       "name": "KING",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916PYPCZ3SEW0XPY783G",
       "type": "character",
       "name": "KIDS",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916PBB7DD4AQPTQM7NHA",
       "type": "location",
       "name": "INDIAN BOARDING SCHOOL",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "01JFTT916PVF775TD6B9F2B6PY",
       "type": "location",
       "name": "SCHOOL CLASSROOM",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "S1",
       "sceneHeading": "EXT - INDIAN BOARDING SCHOOL - MORNING",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "scene",
-      "locationId": "UNKNOWN",
+      "locationId": "UNKNOWN LOCATION",
       "timeOfDay": "UNKNOWN",
       "locationType": "ambiguous"
     },
     {
-      "id": "01JKVQVNYWYJ6T6ECREM4JDPD7",
+      "id": "01JKVR86YCG823X55DFBWEXQ5F",
       "label": "A1",
       "type": "action",
       "text": "The Seven Grandfather's rockface mountain formation looms on the sunlit horizon beyond the school-",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
       "id": "S2",
       "sceneHeading": "INT - SCHOOL CLASSROOM - MORNING",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "scene",
-      "locationId": "UNKNOWN",
+      "locationId": "UNKNOWN LOCATION",
       "timeOfDay": "UNKNOWN",
       "locationType": "ambiguous"
     },
     {
-      "id": "01JKVQVNYX97GJ5XSRYGEVY7WD",
+      "id": "01JKVR86YC189S1J69P9SW05HB",
       "label": "A2",
       "type": "action",
       "text": "A handful of 5th grade preteens practice their joke delivery before homeroom. 11 y.o. Waya take the karaoke mic and comedian hat in turn",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
-      "id": "01JKVQVNYXPNARFM86WEC6E2KV",
+      "id": "01JKVR86YCAHTZ40CRP2G61EYF",
       "label": "D1",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D1",
+      "characterId": "01JFTT916NS68EA879HJJQ915C",
       "lines": [
         {
           "text": "Osiyo! Doh hi tsu? My delivery might\nbe <coughs> a little rusty since I became a travelling man. Oginalii, I need you good folks to put a finger in the air and wave it in circles like you just dont care-"
@@ -299,11 +299,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYX865SH43FHVS47K7F",
+      "id": "01JKVR86YD5R1SEW61AP4MYDJ3",
       "label": "D2",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D2",
+      "characterId": "01JFTT916NBQX0JW0SFQ3PRF2M",
       "lines": [
         {
           "text": "Like this?"
@@ -312,11 +312,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXC8TQXSD9J1WA7FS2",
+      "id": "01JKVR86YDFMHDEQ9A06AZ7P0G",
       "label": "D3",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D3",
+      "characterId": "01JFTT916NS68EA879HJJQ915C",
       "lines": [
         {
           "text": "Up high like you're powwow dancing like good ol' Dr. Eushloke with his shepherd staff."
@@ -325,11 +325,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXT6XF8BPZFVGW5VYH",
+      "id": "01JKVR86YD99NMTWBZFR9J50X4",
       "label": "D4",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D4",
+      "characterId": "01JFTT916NRQEMX3CK8KDE8DVY",
       "lines": [
         {
           "text": "Man, this not aerobics class! I ain't\nlaughing yet. Y'all laughing? "
@@ -338,11 +338,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXCFMP9V6Y43MPJECM",
+      "id": "01JKVR86YD5Z1C3J55PFHTSY9X",
       "label": "D5",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D5",
+      "characterId": "01JFTT916N4EF0S822RCWH4V55",
       "lines": [
         {
           "text": "My friend Pecan, comedy is like a\nrecipe. \n(singsong)"
@@ -351,11 +351,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXVC8N7Z769FXD4N42",
+      "id": "01JKVR86YDHWB3TTMK0FS4SA1E",
       "label": "D6",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D6",
+      "characterId": "01JFTT916N4EF0S822RCWH4V55",
       "lines": [
         {
           "text": "Just take one step after the other and soon you'll be walking out the door-or- or! Just take one step after the other and soon you'll be walking down the hall, -all, -all!"
@@ -368,18 +368,18 @@
       ]
     },
     {
-      "id": "01JKVQVNYXRHCX3FZJQYGZQSTY",
+      "id": "01JKVR86YDFDHQFS8HGA6H55A6",
       "label": "A3",
       "type": "action",
       "text": "Josh Blocks the classroom door ",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
-      "id": "01JKVQVNYXWFYP7PE8Y984C5NB",
+      "id": "01JKVR86YDDP39QEP0K1ZH6P6Z",
       "label": "D7",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D7",
+      "characterId": "01JFTT916NTSY7CRBP3HWY2H5N",
       "lines": [
         {
           "text": "Lemme see that hall pass, player!"
@@ -388,18 +388,18 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXYM34T1VNWHH4GT60",
+      "id": "01JKVR86YDNRTGE9HPKTRMA23W",
       "label": "A4",
       "type": "action",
       "text": "Kenjas pulls his own pockets inside out like rabbit ears and gives up on escaping.",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
-      "id": "01JKVQVNYXGVC2P40YGPR4WK1F",
+      "id": "01JKVR86YD8HB8BK28N0YKXQMJ",
       "label": "D8",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D8",
+      "characterId": "01JFTT916NVYPRV879FKHCYFRY",
       "lines": [
         {
           "text": "Waya, what's your joke already?"
@@ -408,11 +408,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXQH011F1W3JCSDPFC",
+      "id": "01JKVR86YDVNTJDW8DQAPBFE0B",
       "label": "D9",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D9",
+      "characterId": "01JFTT916NRQEMX3CK8KDE8DVY",
       "lines": [
         {
           "text": "Don't press the new kid. He can't\nread."
@@ -421,11 +421,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXA541JF6915PZNPR8",
+      "id": "01JKVR86YDDH8RY9B7ZPP5W1WX",
       "label": "D10",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D10",
+      "characterId": "01JFTT916NS68EA879HJJQ915C",
       "lines": [
         {
           "text": "I can, too. I just missed a few\nlessons while we was... detained by the gobment. I know you know how they do."
@@ -434,18 +434,18 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXMHYT4BTR9B89MQQG",
+      "id": "01JKVR86YD75XDZGEVFHMR2B6Z",
       "label": "A5",
       "type": "action",
       "text": "KENJAL/ JOSH \nFree Leonard Peltier!!",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG"
     },
     {
-      "id": "01JKVQVNYX0ATP6Z8ESQ9XCCFD",
+      "id": "01JKVR86YD6VXNCCFV4QJ2PXRN",
       "label": "D11",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D11",
+      "characterId": "01JFTT916NZXFX3XBDFB81F4EE",
       "lines": [
         {
           "text": "And all the Indian children!"
@@ -454,11 +454,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXHCHMY43A0M7NC7X0",
+      "id": "01JKVR86YDD3C2MZ36565EBD3V",
       "label": "D12",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D12",
+      "characterId": "01JFTT916NS68EA879HJJQ915C",
       "lines": [
         {
           "text": "Ahem! I got one of my own I learned on\nthe inside of that cage under a foil\nblanket. My mic sounds nice check one!\nSo fingers circling. "
@@ -474,11 +474,11 @@
       ]
     },
     {
-      "id": "01JKVQVNYX5MS904J6MNWA61AX",
+      "id": "01JKVR86YDEJXEEHX81ZARC327",
       "label": "D13",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D13",
+      "characterId": "01JFTT916NVYPRV879FKHCYFRY",
       "lines": [
         {
           "text": "Who's there? "
@@ -491,11 +491,11 @@
       ]
     },
     {
-      "id": "01JKVQVNYX0FFTKXMHQ2DY0PQ0",
+      "id": "01JKVR86YD0EPRDYD4993M0D9E",
       "label": "D14",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D14",
+      "characterId": "01JFTT916NS68EA879HJJQ915C",
       "lines": [
         {
           "text": "Ya!"
@@ -504,11 +504,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXKRGEXS6TQXSPF8EV",
+      "id": "01JKVR86YD2QKBHH43DDBVANTS",
       "label": "D15",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D15",
+      "characterId": "01JFTT916NVYPRV879FKHCYFRY",
       "lines": [
         {
           "text": "Ya-Hoo!! <laughter, giggles>"
@@ -521,11 +521,11 @@
       ]
     },
     {
-      "id": "01JKVQVNYXJZ1XPQ6AXBC5XMCG",
+      "id": "01JKVR86YD5KKNCG8B5QERW4DT",
       "label": "D16",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D16",
+      "characterId": "01JFTT916NRQEMX3CK8KDE8DVY",
       "lines": [
         {
           "text": "Oh, brother! Corny!"
@@ -534,11 +534,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYX0CDSXA3P60B6ZBNF",
+      "id": "01JKVR86YDWZBY8CTQSDJDMKW0",
       "label": "D17",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D17",
+      "characterId": "01JFTT916NW0M8W99ZFVY2P7XM",
       "lines": [
         {
           "text": "Oh, yeah! So what you got for us,\nKevin Hart?"
@@ -547,11 +547,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXVB98DEB1QXT7AS0R",
+      "id": "01JKVR86YDT1HAC5JZHYM6Z9XK",
       "label": "D18",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D18",
+      "characterId": "01JFTT916PYPCZ3SEW0XPY783G",
       "lines": [
         {
           "text": "Oooooooh!"
@@ -560,11 +560,11 @@
       "parentheticals": []
     },
     {
-      "id": "01JKVQVNYXF4V31HH1M0G1XVAH",
+      "id": "01JKVR86YDDG5SWX27KC2W1JSV",
       "label": "D19",
-      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
+      "projectId": "01JKVR86YAD8ACXS2V4WYFSJHG",
       "type": "dialogue",
-      "characterId": "D19",
+      "characterId": "01JFTT916NTSY7CRBP3HWY2H5N",
       "lines": [
         {
           "text": "So you think you got what it takes to be Turtle Island's Top Class Clown?"
