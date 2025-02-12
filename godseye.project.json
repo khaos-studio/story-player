@@ -1,21 +1,21 @@
 {
   "project": {
     "title": "TURTLE ISLAND'S TOP CLASS CLOWN",
-    "createdBy": "01JKVQKNGJD0B2AD4DN5642XXD",
-    "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+    "createdBy": "01JKVQVNYV4J2ZBBXEEENHM9AJ",
+    "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
     "status": "Processing",
-    "owner": "01JKVQKNGJD0B2AD4DN5642XXD",
+    "owner": "01JKVQVNYV4J2ZBBXEEENHM9AJ",
     "collaborators": []
   },
   "compositions": [
     {
       "id": "comp-0",
       "type": "composition",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "units": [
         {
           "label": "S1: EXT - INDIAN BOARDING SCHOOL - MORNING",
-          "sceneId": "01JKVQKNGKKBYPNHXK685F54TC",
+          "sceneId": "01JKVQVNYWRTHYHMZXYNJ0HY7A",
           "sceneNumber": "faef6064-64db-4cf3-a337-806efda35a07",
           "locationName": "UNKNOWN",
           "sceneHeading": "EXT - INDIAN BOARDING SCHOOL - MORNING",
@@ -34,7 +34,7 @@
         },
         {
           "label": "S2: INT - SCHOOL CLASSROOM - MORNING",
-          "sceneId": "01JKVQKNGMZKG02W1WKQKFETPS",
+          "sceneId": "01JKVQVNYXNMD6QNVRS6VA0TJB",
           "sceneNumber": "0d8f671c-47d0-4f7d-bde2-06cf15b22d21",
           "locationName": "UNKNOWN",
           "sceneHeading": "INT - SCHOOL CLASSROOM - MORNING",
@@ -191,101 +191,104 @@
       "id": "01JFTT916NS68EA879HJJQ915C",
       "type": "character",
       "name": "WAYA",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916NBQX0JW0SFQ3PRF2M",
       "type": "character",
       "name": "TAYANITA",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916NRQEMX3CK8KDE8DVY",
       "type": "character",
       "name": "PECAN",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916N4EF0S822RCWH4V55",
       "type": "character",
       "name": "KENJAL",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916NTSY7CRBP3HWY2H5N",
       "type": "character",
       "name": "JOSH",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916NVYPRV879FKHCYFRY",
       "type": "character",
       "name": "RUBY",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916NZXFX3XBDFB81F4EE",
       "type": "character",
       "name": "INOLA",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916NW0M8W99ZFVY2P7XM",
       "type": "character",
       "name": "KING",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916PYPCZ3SEW0XPY783G",
       "type": "character",
       "name": "KIDS",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916PBB7DD4AQPTQM7NHA",
       "type": "location",
       "name": "INDIAN BOARDING SCHOOL",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "01JFTT916PVF775TD6B9F2B6PY",
       "type": "location",
       "name": "SCHOOL CLASSROOM",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "S1",
       "sceneHeading": "EXT - INDIAN BOARDING SCHOOL - MORNING",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "scene",
       "locationId": "UNKNOWN",
       "timeOfDay": "UNKNOWN",
       "locationType": "ambiguous"
     },
     {
-      "id": "A1",
+      "id": "01JKVQVNYWYJ6T6ECREM4JDPD7",
+      "label": "A1",
       "type": "action",
       "text": "The Seven Grandfather's rockface mountain formation looms on the sunlit horizon beyond the school-",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
       "id": "S2",
       "sceneHeading": "INT - SCHOOL CLASSROOM - MORNING",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "scene",
       "locationId": "UNKNOWN",
       "timeOfDay": "UNKNOWN",
       "locationType": "ambiguous"
     },
     {
-      "id": "A2",
+      "id": "01JKVQVNYX97GJ5XSRYGEVY7WD",
+      "label": "A2",
       "type": "action",
       "text": "A handful of 5th grade preteens practice their joke delivery before homeroom. 11 y.o. Waya take the karaoke mic and comedian hat in turn",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
-      "id": "D1",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXPNARFM86WEC6E2KV",
+      "label": "D1",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D1",
       "lines": [
@@ -296,8 +299,9 @@
       "parentheticals": []
     },
     {
-      "id": "D2",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYX865SH43FHVS47K7F",
+      "label": "D2",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D2",
       "lines": [
@@ -308,8 +312,9 @@
       "parentheticals": []
     },
     {
-      "id": "D3",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXC8TQXSD9J1WA7FS2",
+      "label": "D3",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D3",
       "lines": [
@@ -320,8 +325,9 @@
       "parentheticals": []
     },
     {
-      "id": "D4",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXT6XF8BPZFVGW5VYH",
+      "label": "D4",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D4",
       "lines": [
@@ -332,8 +338,9 @@
       "parentheticals": []
     },
     {
-      "id": "D5",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXCFMP9V6Y43MPJECM",
+      "label": "D5",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D5",
       "lines": [
@@ -344,8 +351,9 @@
       "parentheticals": []
     },
     {
-      "id": "D6",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXVC8N7Z769FXD4N42",
+      "label": "D6",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D6",
       "lines": [
@@ -360,14 +368,16 @@
       ]
     },
     {
-      "id": "A3",
+      "id": "01JKVQVNYXRHCX3FZJQYGZQSTY",
+      "label": "A3",
       "type": "action",
       "text": "Josh Blocks the classroom door ",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
-      "id": "D7",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXWFYP7PE8Y984C5NB",
+      "label": "D7",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D7",
       "lines": [
@@ -378,14 +388,16 @@
       "parentheticals": []
     },
     {
-      "id": "A4",
+      "id": "01JKVQVNYXYM34T1VNWHH4GT60",
+      "label": "A4",
       "type": "action",
       "text": "Kenjas pulls his own pockets inside out like rabbit ears and gives up on escaping.",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
-      "id": "D8",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXGVC2P40YGPR4WK1F",
+      "label": "D8",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D8",
       "lines": [
@@ -396,8 +408,9 @@
       "parentheticals": []
     },
     {
-      "id": "D9",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXQH011F1W3JCSDPFC",
+      "label": "D9",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D9",
       "lines": [
@@ -408,8 +421,9 @@
       "parentheticals": []
     },
     {
-      "id": "D10",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXA541JF6915PZNPR8",
+      "label": "D10",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D10",
       "lines": [
@@ -420,14 +434,16 @@
       "parentheticals": []
     },
     {
-      "id": "A5",
+      "id": "01JKVQVNYXMHYT4BTR9B89MQQG",
+      "label": "A5",
       "type": "action",
       "text": "KENJAL/ JOSH \nFree Leonard Peltier!!",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51"
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN"
     },
     {
-      "id": "D11",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYX0ATP6Z8ESQ9XCCFD",
+      "label": "D11",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D11",
       "lines": [
@@ -438,8 +454,9 @@
       "parentheticals": []
     },
     {
-      "id": "D12",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXHCHMY43A0M7NC7X0",
+      "label": "D12",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D12",
       "lines": [
@@ -457,8 +474,9 @@
       ]
     },
     {
-      "id": "D13",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYX5MS904J6MNWA61AX",
+      "label": "D13",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D13",
       "lines": [
@@ -473,8 +491,9 @@
       ]
     },
     {
-      "id": "D14",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYX0FFTKXMHQ2DY0PQ0",
+      "label": "D14",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D14",
       "lines": [
@@ -485,8 +504,9 @@
       "parentheticals": []
     },
     {
-      "id": "D15",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXKRGEXS6TQXSPF8EV",
+      "label": "D15",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D15",
       "lines": [
@@ -501,8 +521,9 @@
       ]
     },
     {
-      "id": "D16",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXJZ1XPQ6AXBC5XMCG",
+      "label": "D16",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D16",
       "lines": [
@@ -513,8 +534,9 @@
       "parentheticals": []
     },
     {
-      "id": "D17",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYX0CDSXA3P60B6ZBNF",
+      "label": "D17",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D17",
       "lines": [
@@ -525,8 +547,9 @@
       "parentheticals": []
     },
     {
-      "id": "D18",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXVB98DEB1QXT7AS0R",
+      "label": "D18",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D18",
       "lines": [
@@ -537,8 +560,9 @@
       "parentheticals": []
     },
     {
-      "id": "D19",
-      "projectId": "01JKVQKNGJ3GJNAT4J6BRQHH51",
+      "id": "01JKVQVNYXF4V31HH1M0G1XVAH",
+      "label": "D19",
+      "projectId": "01JKVQVNYVXB9S2ATNCR2NZXBN",
       "type": "dialogue",
       "characterId": "D19",
       "lines": [
