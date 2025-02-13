@@ -12,7 +12,9 @@ document.getElementById('playPauseBtn').innerHTML = playIcon;
 // Mapping project keys to JSON URLs.
 const projectUrls = {
     godseye: 'https://khaos-studio.github.io/story-player/godseye.project.json',
-    b4p: 'https://khaos-studio.github.io/story-player/b4p.project.json'
+    b4p: 'https://khaos-studio.github.io/story-player/b4p.project.json',
+    shawshank: 'https://khaos-studio.github.io/story-player/shawshank.project.json',
+    
 };
 
 let projectData = null,
