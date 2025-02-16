@@ -17,6 +17,8 @@ const projectUrls = {
     heart: 'https://khaos-studio.github.io/story-player/heart.project.json',
     breaking: 'https://khaos-studio.github.io/story-player/breaking.project.json',
     bigfish: 'https://khaos-studio.github.io/story-player/bigfish.project.json',
+    pulp: 'https://khaos-studio.github.io/story-player/pulp.project.json',
+    
     
 };
 
