@@ -14,6 +14,9 @@ const projectUrls = {
     godseye: 'https://khaos-studio.github.io/story-player/godseye.project.json',
     b4p: 'https://khaos-studio.github.io/story-player/b4p.project.json',
     shawshank: 'https://khaos-studio.github.io/story-player/shawshank.project.json',
+    heart: 'https://khaos-studio.github.io/story-player/heart.project.json',
+    breaking: 'https://khaos-studio.github.io/story-player/breaking.project.json',
+    bigfish: 'https://khaos-studio.github.io/story-player/bigfish.project.json',
     
 };
 

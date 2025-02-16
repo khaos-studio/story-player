@@ -1,0 +1,982 @@
+{
+    "project": {
+        "title": "Heart of an Indie: Ignited by Story Intelligence",
+        "createdBy": "khaos",
+        "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+        "status": "Processing",
+        "owner": "khaos",
+        "collaborators": []
+    },
+    "compositions": [
+        {
+            "id": "comp-0",
+            "type": "composition",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "units": [
+                {
+                    "label": "S1: EXT. BROOKLYN STREET - GOLDEN HOUR",
+                    "sceneId": "01JM69M32N4W8NACQWG8RKXB4T",
+                    "sceneNumber": "S1",
+                    "locationId": "01JM69M32NA23507KRSSRD7ZW5",
+                    "sceneHeading": "EXT. BROOKLYN STREET - GOLDEN HOUR",
+                    "locationType": "EXT.",
+                    "timeOfDay": "GOLDEN HOUR",
+                    "mediaType": "scene",
+                    "format": "screenplay",
+                    "events": [
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M32N3YZYQDKSJJM8BZGR",
+                            "startTime": "00:00:00",
+                            "duration": "00:00:11"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32N69WAAEPWXPM3MDK8",
+                            "startTime": "00:00:04",
+                            "duration": "00:00:10"
+                        }
+                    ]
+                },
+                {
+                    "label": "S2: INT. FIONA'S CRAPPY APARTMENT - NIGHT",
+                    "sceneId": "01JM69M32PH072S7ED8H4W7R02",
+                    "sceneNumber": "S2",
+                    "locationId": "01JM69M32N7TADPH3MW3QKEXMB",
+                    "sceneHeading": "INT. FIONA'S CRAPPY APARTMENT - NIGHT",
+                    "locationType": "INT.",
+                    "timeOfDay": "NIGHT",
+                    "mediaType": "scene",
+                    "format": "screenplay",
+                    "events": [
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32NQF6B1CTPX9R53S1K",
+                            "startTime": "00:00:04",
+                            "duration": "00:00:07"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M32NECGR5ZVVK6BCD9YD",
+                            "startTime": "00:00:08",
+                            "duration": "00:00:05"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32NSGC46VARAYTA7FE8",
+                            "startTime": "00:00:10",
+                            "duration": "00:00:13"
+                        }
+                    ]
+                },
+                {
+                    "label": "S3: EXT. INDIE FILM SET - DAY",
+                    "sceneId": "01JM69M34GY0XCCYFQN0GTJA4C",
+                    "sceneNumber": "S3",
+                    "locationId": "01JM69M32NFRH60T5D2G338XV7",
+                    "sceneHeading": "EXT. INDIE FILM SET - DAY",
+                    "locationType": "EXT.",
+                    "timeOfDay": "DAY",
+                    "mediaType": "scene",
+                    "format": "screenplay",
+                    "events": [
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32PS3DA48ERZF9QGXSS",
+                            "startTime": "00:00:10",
+                            "duration": "00:00:12"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32PT58G1NN5M7X4X988",
+                            "startTime": "00:00:14",
+                            "duration": "00:00:08"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M32PWT4V7Y71TJ5ZFPPR",
+                            "startTime": "00:00:16",
+                            "duration": "00:00:10"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32PJAXW4V6A8GK1HABM",
+                            "startTime": "00:00:18",
+                            "duration": "00:00:06"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M32PY9REAVQXBA2BPQ16",
+                            "startTime": "00:00:20",
+                            "duration": "00:00:03"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32P67XVFQ20Q94ZHHSB",
+                            "startTime": "00:00:22",
+                            "duration": "00:00:08"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M32P737TG23DGFA8P5FK",
+                            "startTime": "00:00:24",
+                            "duration": "00:00:01"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32PYAMVMGH7B1JHX24V",
+                            "startTime": "00:00:26",
+                            "duration": "00:00:08"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M32PRRC342G3TWCMZ6RS",
+                            "startTime": "00:00:28",
+                            "duration": "00:00:05"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32PBAKEY9PDEYG8EHE9",
+                            "startTime": "00:00:30",
+                            "duration": "00:00:06"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M32PR4YDDYXYPDD1185T",
+                            "startTime": "00:00:32",
+                            "duration": "00:00:10"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34EH8FMA9A4EYE32PG3",
+                            "startTime": "00:00:34",
+                            "duration": "00:00:13"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34F7GCDYBPBXQHVGWB7",
+                            "startTime": "00:00:36",
+                            "duration": "00:00:03"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34F1C5WBFGYGAV347S8",
+                            "startTime": "00:00:38",
+                            "duration": "00:00:05"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34FYEW7VSQ24336CQRF",
+                            "startTime": "00:00:40",
+                            "duration": "00:00:04"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34FMNJ01JKD69GXPMKY",
+                            "startTime": "00:00:42",
+                            "duration": "00:00:04"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34FXDXT6V0EMBB9RGCE",
+                            "startTime": "00:00:44",
+                            "duration": "00:00:03"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34F72K69NZCNPESAXVJ",
+                            "startTime": "00:00:46",
+                            "duration": "00:00:03"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34FK9PAZ8CA1WQJ0NA9",
+                            "startTime": "00:00:48",
+                            "duration": "00:00:09"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34F5VPB0HTB42CJ02KZ",
+                            "startTime": "00:00:50",
+                            "duration": "00:00:08"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34F78MHT61HTCXSFF7E",
+                            "startTime": "00:00:52",
+                            "duration": "00:00:04"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34FCM3H9H0JJTJM31QM",
+                            "startTime": "00:00:54",
+                            "duration": "00:00:07"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34FB1ZGDYDRR52XH3N5",
+                            "startTime": "00:00:56",
+                            "duration": "00:00:08"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34F0KYAG85945BW5D95",
+                            "startTime": "00:00:58",
+                            "duration": "00:00:00"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34F05Y73YZDX95MFYW9",
+                            "startTime": "00:01:00",
+                            "duration": "00:00:06"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34FJZX8H2ZJ04HBQ0J8",
+                            "startTime": "00:01:02",
+                            "duration": "00:00:06"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34G74PZ4AW4AKDMQFKM",
+                            "startTime": "00:01:04",
+                            "duration": "00:00:10"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34G7MSN5MAE5HYM7D2W",
+                            "startTime": "00:01:06",
+                            "duration": "00:00:01"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34GVMKVATHHWGSQ157P",
+                            "startTime": "00:01:08",
+                            "duration": "00:00:07"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34GKTEMCAHK7HTBNBKE",
+                            "startTime": "00:01:10",
+                            "duration": "00:00:05"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34GBNEBYKT8YRF1QM29",
+                            "startTime": "00:01:12",
+                            "duration": "00:00:07"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34G6K3N4N3TVVJ1MXDM",
+                            "startTime": "00:01:14",
+                            "duration": "00:00:05"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34GBCVX72B9KZFRGEEX",
+                            "startTime": "00:01:16",
+                            "duration": "00:00:04"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34GRW2DAZPW79MZPCTA",
+                            "startTime": "00:01:18",
+                            "duration": "00:00:04"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34GA98GS8VEQV2S1DQZ",
+                            "startTime": "00:01:20",
+                            "duration": "00:00:03"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34G9QJ1FKNTSG5BJ9J9",
+                            "startTime": "00:01:22",
+                            "duration": "00:00:03"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34G8FK8ZVDGKPFQZ4AG",
+                            "startTime": "00:01:24",
+                            "duration": "00:00:05"
+                        }
+                    ]
+                },
+                {
+                    "label": "S4: EXT. INDIE FILM SET - DAY",
+                    "sceneId": "01JM69M34HR8E1F2K6R00YKHRD",
+                    "sceneNumber": "S4",
+                    "locationId": "01JM69M32NFRH60T5D2G338XV7",
+                    "sceneHeading": "EXT. INDIE FILM SET - DAY",
+                    "locationType": "EXT.",
+                    "timeOfDay": "DAY",
+                    "mediaType": "scene",
+                    "format": "screenplay",
+                    "events": [
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34GFPKW640PTM1F10V3",
+                            "startTime": "00:01:24",
+                            "duration": "00:00:00"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34GXG3AC31X075H6AG3",
+                            "startTime": "00:01:28",
+                            "duration": "00:00:10"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34GRQ91S91QH480QX5D",
+                            "startTime": "00:01:30",
+                            "duration": "00:00:09"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34HDYG8Z9C6XFMBV473",
+                            "startTime": "00:01:32",
+                            "duration": "00:00:06"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34HFDATHSD53R7P79GH",
+                            "startTime": "00:01:34",
+                            "duration": "00:00:06"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34HCHRMVSX1G0BWZ4DR",
+                            "startTime": "00:01:36",
+                            "duration": "00:00:09"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34H3S58GWHEK51HFK5E",
+                            "startTime": "00:01:38",
+                            "duration": "00:00:07"
+                        }
+                    ]
+                },
+                {
+                    "label": "S5: EXT. BROOKLYN STREET - NIGHT",
+                    "sceneId": "01JM69M34HCFHS3AR4FVH9P0R3",
+                    "sceneNumber": "S5",
+                    "locationId": "01JM69M32NA23507KRSSRD7ZW5",
+                    "sceneHeading": "EXT. BROOKLYN STREET - NIGHT",
+                    "locationType": "EXT.",
+                    "timeOfDay": "NIGHT",
+                    "mediaType": "scene",
+                    "format": "screenplay",
+                    "events": [
+                        {
+                            "elementType": "transition",
+                            "elementId": "01JM69M34HD93D4WBAGAKZRHBM",
+                            "startTime": "00:01:38",
+                            "duration": "00:00:02"
+                        },
+                        {
+                            "elementType": "dialogue",
+                            "elementId": "01JM69M34HSXPANPS7FM3SCB9Q",
+                            "startTime": "00:01:42",
+                            "duration": "00:00:12"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34HB6M2J44KNDXP0NWS",
+                            "startTime": "00:01:44",
+                            "duration": "00:00:09"
+                        },
+                        {
+                            "elementType": "action",
+                            "elementId": "01JM69M34HC0KP7VTZEYMFCSP7",
+                            "startTime": "00:01:46",
+                            "duration": "00:00:12"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "id": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "type": "character",
+            "name": "FIONA (V.O.)",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32NA8ADVMVNQ998YFVW",
+            "type": "character",
+            "name": "PAUL",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32NG2F5TZN6CG5XAP6C",
+            "type": "character",
+            "name": "CHRIS (erupting)",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32N318NTEPRV13PF09D",
+            "type": "character",
+            "name": "SARAH",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32NA23507KRSSRD7ZW5",
+            "type": "location",
+            "name": "BROOKLYN STREET",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32N7TADPH3MW3QKEXMB",
+            "type": "location",
+            "name": "FIONA'S CRAPPY APARTMENT",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32NFRH60T5D2G338XV7",
+            "type": "location",
+            "name": "INDIE FILM SET",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "S1",
+            "sceneHeading": "EXT. BROOKLYN STREET - GOLDEN HOUR",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "scene",
+            "locationId": "01JM69M32NA23507KRSSRD7ZW5",
+            "timeOfDay": "GOLDEN HOUR",
+            "locationType": "exterior"
+        },
+        {
+            "id": "01JM69M32N3YZYQDKSJJM8BZGR",
+            "label": "01JM69M31HHCHCHKDQRY1TK31G",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "Five years grinding it out as an indie filmmaker in this city...and I'm still stuck in a endless loop of rejected scripts and dead-end jobs to make rent."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M32N69WAAEPWXPM3MDK8",
+            "label": "01JM69M31HZJ9AZ6D7NH0KXNDP",
+            "type": "action",
+            "text": "An exhausted FIONA trudges home, a cheap hot dog and worn-out sneakers her only companions. This is the OPENING IMAGE of her dejected, cash-strapped state.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "S2",
+            "sceneHeading": "INT. FIONA'S CRAPPY APARTMENT - NIGHT",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "scene",
+            "locationId": "01JM69M32N7TADPH3MW3QKEXMB",
+            "timeOfDay": "NIGHT",
+            "locationType": "interior"
+        },
+        {
+            "id": "01JM69M32NQF6B1CTPX9R53S1K",
+            "label": "01JM69M31HXVVJG0XD5EEZPAHT",
+            "type": "action",
+            "text": "She sulks onto her couch, dejected. The THEME emerges - the relentless uphill battle for struggling indie artists.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32NECGR5ZVVK6BCD9YD",
+            "label": "01JM69M31HZFYWJDCYTTSC3697",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "I've sacrificed everything to chase this dream...but lately, it feels completely out of reach."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M32NSGC46VARAYTA7FE8",
+            "label": "01JM69M31HQZ5SBJJ43HDFBB9B",
+            "type": "action",
+            "text": "In her dimly-lit living space, Fiona stares forlornly at a WALL OF FRAMED PHOTOS from past indie film sets that never went further. This introduction SETS UP her burning desire for success. ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "S3",
+            "sceneHeading": "EXT. INDIE FILM SET - DAY",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "scene",
+            "locationId": "01JM69M32NFRH60T5D2G338XV7",
+            "timeOfDay": "DAY",
+            "locationType": "exterior"
+        },
+        {
+            "id": "01JM69M32PS3DA48ERZF9QGXSS",
+            "label": "01JM69M32MABCSSYRRH8PRZHTD",
+            "type": "action",
+            "text": "In a soaring CLIMAX sequence, Fiona's ambitious fantasy epic comes to life through jaw-dropping visuals, sound design and performances - a true testament to the power of "Heart of an Indie."",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32PT58G1NN5M7X4X988",
+            "label": "01JM69M32KHTDSAYC177XTSBYB",
+            "type": "action",
+            "text": "The crew's energy and confidence reach a fever pitch as Fiona's long-awaited creative vision finally manifests on screen in all its glory:",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32PWT4V7Y71TJ5ZFPPR",
+            "label": "01JM69M32K3APDYG0QYA1EKY3A",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "Suddenly every aspect of our process became aligned and turbo-charged. It was like we finally had a worthy co-pilot helping us execute at the highest level possible."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M32PJAXW4V6A8GK1HABM",
+            "label": "01JM69M32KM9HB887AMXWF4DVB",
+            "type": "action",
+            "text": "As Khaos' integrated features start clicking into place, the team's spirit and determination are REVITALIZED.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32PY9REAVQXBA2BPQ16",
+            "label": "01JM69M32K1M1Y1V69TD9EZ694",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NA8ADVMVNQ998YFVW",
+            "lines": [
+                {
+                    "text": "I've never seen a pre-pro process this streamlined before..."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M32P67XVFQ20Q94ZHHSB",
+            "label": "01JM69M32KB2G73XWX6JKF2A8J",
+            "type": "action",
+            "text": "- INT. PRODUCTION OFFICE - Paul coordinates cast, crew, locations through Khaos' automated breakdowns and scheduling tools, giddy at the efficiency.  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32P737TG23DGFA8P5FK",
+            "label": "01JM69M32KSXMJZHTEKAF0NSQ2",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32N318NTEPRV13PF09D",
+            "lines": [
+                {
+                    "text": "Okay, this is next-level..."
+                }
+            ],
+            "parentheticals": [
+                {
+                    "text": "(eyes wide)"
+                }
+            ]
+        },
+        {
+            "id": "01JM69M32PYAMVMGH7B1JHX24V",
+            "label": "01JM69M32KNWYT5R37VZTVXY0C",
+            "type": "action",
+            "text": "- INT. SOUND STUDIO - Sarah meticulously designs rich sound effects informed by Khaos' nuanced script analysis and animatics.  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32PRRC342G3TWCMZ6RS",
+            "label": "01JM69M32KFNDK0WK2X7MCBW1P",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "UNKNOWN CHARACTER",
+            "lines": [
+                {
+                    "text": "Damn, this is the most prep I've ever had going into a shoot..."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M32PBAKEY9PDEYG8EHE9",
+            "label": "01JM69M32K722EX7RVX5H08NSR",
+            "type": "action",
+            "text": "- EXT. INDIE SET - Khaos' digital previsualization and AI camerawork planning impresses even the skeptical Chris.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M32PR4YDDYXYPDD1185T",
+            "label": "01JM69M32KZYMQ6VVZ2PFTT1ZH",
+            "type": "action",
+            "text": "Reluctantly, the crew falls in line to give Khaos a try. We see a WHIRLWIND OF ACTIVITY & BONDING as they dive in, exploring Khaos' capabilities:",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34EH8FMA9A4EYE32PG3",
+            "label": "01JM69M32K5BD9H6Y6CYXAQX71",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "UNKNOWN CHARACTER",
+            "lines": [
+                {
+                    "text": "Guys, when are we gonna catch a break if we don't embrace tools that can streamline our process? What have we got to lose? This could be the game-changer we've been waiting for!"
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34F7GCDYBPBXQHVGWB7",
+            "label": "01JM69M32KNWBYHW2FYE7HCQ30",
+            "type": "action",
+            "text": "Fiona's impassioned MIDPOINT rallying cry to her squad:",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34F1C5WBFGYGAV347S8",
+            "label": "01JM69M32K8M8DCPZ0E8953J2D",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NA8ADVMVNQ998YFVW",
+            "lines": [
+                {
+                    "text": "Let me see the budgeting breakdowns on this thing. I need to run numbers."
+                }
+            ],
+            "parentheticals": [
+                {
+                    "text": "(skeptical)"
+                }
+            ]
+        },
+        {
+            "id": "01JM69M34FYEW7VSQ24336CQRF",
+            "label": "01JM69M32K03APHANAC4FEYTSJ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "UNKNOWN CHARACTER",
+            "lines": [
+                {
+                    "text": "Great, more technology gimmicks to waste what little money we have..."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34FMNJ01JKD69GXPMKY",
+            "label": "01JM69M32KAMM7AAH5RFJ6ZDYB",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32N318NTEPRV13PF09D",
+            "lines": [
+                {
+                    "text": "How can some computer program understand the nuances of my sound design?"
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34FXDXT6V0EMBB9RGCE",
+            "label": "01JM69M32KMN4J4GZ0M5ASZCSS",
+            "type": "action",
+            "text": "Fiona's skeptical team resists integrating Khaos from the start.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34F72K69NZCNPESAXVJ",
+            "label": "01JM69M32K73TB5N031BSG25G5",
+            "type": "action",
+            "text": "...That is quickly threatened by COMPLICATIONS & DISASTER. ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34FK9PAZ8CA1WQJ0NA9",
+            "label": "01JM69M32JGW2BDF3EDT7BD71J",
+            "type": "action",
+            "text": "Despite her FEAR OF THE UNKNOWN, Fiona decides it's worth one last shot. This FIRST ENCOUNTER ignites a new sense of hope and possibility...",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34F5VPB0HTB42CJ02KZ",
+            "label": "01JM69M31JQHTY0G1A4YFZ20C6",
+            "type": "action",
+            "text": "Could this be her chance to shed the limitations holding her back? To finally bring her stories to life?  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34F78MHT61HTCXSFF7E",
+            "label": "01JM69M31JP17XQ6X4FB44H9AS",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": ""Use AI to unleash the full potential of your creative vision.""
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34FCM3H9H0JJTJM31QM",
+            "label": "01JM69M31JC49FBEHEF68T71H0",
+            "type": "action",
+            "text": "GRAPHICS/FOOTAGE tout Khaos' ability to revolutionize indie filmmaking through AI script analysis, previz, digital actors, automated breakdowns and more.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34FB1ZGDYDRR52XH3N5",
+            "label": "01JM69M31JAFPDPMBZ22DFWNAE",
+            "type": "action",
+            "text": "And then - a GLIMMER OF HOPE. Fiona's WHIFF OF POSSIBILITY comes through an online ad for KHAOS Story Intelligence Software.  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34F0KYAG85945BW5D95",
+            "label": "01JM69M31J8VRKAJGHXJKEG229",
+            "type": "action",
+            "text": "ACT 2",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34F05Y73YZDX95MFYW9",
+            "label": "01JM69M31JYDK380YV41XCGKM0",
+            "type": "action",
+            "text": "In this MIRROR MOMENT, Fiona is spiritually LOCKED IN a prison of her own self-doubt.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34FJZX8H2ZJ04HBQ0J8",
+            "label": "01JM69M31J8F2GTEBAW6D8KAAZ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "How could I keep doing this to myself? Maybe the dream just...isn't meant for me."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34G74PZ4AW4AKDMQFKM",
+            "label": "01JM69M31JQPXWANZNVVCEMXQ5",
+            "type": "action",
+            "text": "- More budgets being blown  \n- Looming deadlines missed\n- Fiona solemnly eating ramen noodles, utterly broke\n- Finally, Fiona receives her latest REJECTION letter, emotionally broken",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34G7MSN5MAE5HYM7D2W",
+            "label": "01JM69M31JAN2RBXKKS5XKQGSD",
+            "type": "action",
+            "text": "A MONTAGE OF FAILURE:",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34GVMKVATHHWGSQ157P",
+            "label": "01JM69M31J6WYCAEMBFJ3K0JR7",
+            "type": "action",
+            "text": "Her DEBATE becomes clear - whether to keep grinding away fruitlessly or admit defeat and give up her dreams.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34GKTEMCAHK7HTBNBKE",
+            "label": "01JM69M31JVRJNAGR1SH77WAQ4",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "UNKNOWN CHARACTER",
+            "lines": [
+                {
+                    "text": "Please...I know the conditions are rough, but I need you all to dig deeper!"
+                }
+            ],
+            "parentheticals": [
+                {
+                    "text": "(to her team)"
+                }
+            ]
+        },
+        {
+            "id": "01JM69M34GBNEBYKT8YRF1QM29",
+            "label": "01JM69M31JNF7YE8CY4EW3K21E",
+            "type": "action",
+            "text": "And in the middle of it all - FIONA, desperate to keep her vision from derailing completely.  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34G6K3N4N3TVVJ1MXDM",
+            "label": "01JM69M31JJX6HCSAJ9ZSWYG4S",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NG2F5TZN6CG5XAP6C",
+            "lines": [
+                {
+                    "text": "How am I supposed to get these visuals with just my frickin' iPhone?!"
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34GBCVX72B9KZFRGEEX",
+            "label": "01JM69M31JW710WH8ZMGR73FJ6",
+            "type": "action",
+            "text": "Cinematographer CHRIS struggles to execute complex camera moves with no equipment.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34GRW2DAZPW79MZPCTA",
+            "label": "01JM69M31H04RCYGN9T7TFQAYF",
+            "type": "action",
+            "text": "Sound Designer SARAH can't capture crisp audio over deafening STREET NOISE. ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34GA98GS8VEQV2S1DQZ",
+            "label": "01JM69M31HB82J4YCTR2YJBP4Z",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NA8ADVMVNQ998YFVW",
+            "lines": [
+                {
+                    "text": "No money for OT, we're already way over budget!"
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34G9QJ1FKNTSG5BJ9J9",
+            "label": "01JM69M31H6NWYJ8ZTM5NQXZRY",
+            "type": "action",
+            "text": "Production Manager PAUL argues with crew over missed payments.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34G8FK8ZVDGKPFQZ4AG",
+            "label": "01JM69M31HQX88AXHH3F2NS0D7",
+            "type": "action",
+            "text": "The CATALYST hits like a truck. Fiona's latest project is an unmitigated DISASTER:",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "S4",
+            "sceneHeading": "EXT. INDIE FILM SET - DAY",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "scene",
+            "locationId": "01JM69M32NFRH60T5D2G338XV7",
+            "timeOfDay": "DAY",
+            "locationType": "exterior"
+        },
+        {
+            "id": "01JM69M34GFPKW640PTM1F10V3",
+            "label": "01JM69M32M36EFXZXFJDHR7RSD",
+            "type": "action",
+            "text": "===  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34GXG3AC31X075H6AG3",
+            "label": "01JM69M32M6235BY83THY7XHTS",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "Suddenly our individual roles didn't feel so solitary and disjointed. We were a creative FORCE, all moving in lockstep to manifest something larger than ourselves."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34GRQ91S91QH480QX5D",
+            "label": "01JM69M32MMTTJ1TXMZP2SZGP3",
+            "type": "action",
+            "text": "Liam guides crews through epic, sprawling locations. Victor's VFX team enhances stunning visuals. Costume designer Carol crosses the last detail off her checklist.  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34HDYG8Z9C6XFMBV473",
+            "label": "01JM69M32MWCMN5W3CKQDBHR3X",
+            "type": "action",
+            "text": "A jaw-dropping FANTASY SEQUENCE unfolds, intercut with footage of the crew operating like a finely-tuned machine:",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34HFDATHSD53R7P79GH",
+            "label": "01JM69M32M2QZRJF81A5MGAWHS",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "For the first time in years, the passion and electricity on this indie set felt fully charged."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34HCHRMVSX1G0BWZ4DR",
+            "label": "01JM69M32M1VW85SRV7VQH8ZP8",
+            "type": "action",
+            "text": "Fiona calls "Action!" with the confidence of a seasoned pro. Chris executes complex camera choreography with high-end equipment. Sarah's headphones reveal impeccable sound recording.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34H3S58GWHEK51HFK5E",
+            "label": "01JM69M32MHKJSRXJYE0CPS0MM",
+            "type": "action",
+            "text": "We return to the scrappy guerrilla set from the opening, but everything looks and feels completely transformed:  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "S5",
+            "sceneHeading": "EXT. BROOKLYN STREET - NIGHT",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "scene",
+            "locationId": "01JM69M32NA23507KRSSRD7ZW5",
+            "timeOfDay": "NIGHT",
+            "locationType": "exterior"
+        },
+        {
+            "id": "01JM69M34HD93D4WBAGAKZRHBM",
+            "label": "01JM69M32M38K62JTN69S9MEYF",
+            "type": "transition",
+            "text": "FADE TO BLACK.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34HSXPANPS7FM3SCB9Q",
+            "label": "01JM69M32MYSZEETJTXBRY8DDC",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G",
+            "type": "dialogue",
+            "characterId": "01JM69M32NYP3ZEC08EDM8MF4B",
+            "lines": [
+                {
+                    "text": "Those mementos of past disappointments that used to demoralize me? Now they just remind me how far we've come - and how much further this resilient tribe of indie filmmakers can go."
+                }
+            ],
+            "parentheticals": []
+        },
+        {
+            "id": "01JM69M34HB6M2J44KNDXP0NWS",
+            "label": "01JM69M32MPNRN5GTQ187NK2AX",
+            "type": "action",
+            "text": "The FINAL SHOT is her warmly smiling, turning away from the past toward an OPEN ROAD of new possibilities and hard-earned opportunities awaiting.  ",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        },
+        {
+            "id": "01JM69M34HC0KP7VTZEYMFCSP7",
+            "label": "01JM69M32MZJH1138PKT4VYKJA",
+            "type": "action",
+            "text": "As Fiona heads home, she passes the same wall of framed photos from struggling past projects. But her eyes linger on them with a new sense of resolution and pride.",
+            "projectId": "01JM69M32NW67DPE5CK7R82E0G"
+        }
+    ]
+}
