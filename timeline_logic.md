@@ -5,7 +5,7 @@ This document explains the algorithms and calculations used by the Story Player 
 ## Core Concepts
 
 The Story Player timeline visualizes a hierarchical structure:
-- **Compositions** contain **Segments** (formerly called "Units")
+- **Compositions** contain **Segments*
 - **Segments** contain **Events**
 
 To visually represent these elements with proper timing, the player uses several key calculations.
@@ -18,12 +18,12 @@ The core timeline calculations happen in the `computeTimelineData()` function. H
 
 ```javascript
 let totalTime = 0;
-currentComposition.units.forEach(unit => {
-    unit.startTime = totalTime;
-    let unitLength = 0;
-    // Calculate unit length based on events...
-    unit.length = unitLength;
-    totalTime += unitLength;
+currentComposition.segments.forEach(segment => {
+    segment.startTime = totalTime;
+    let segmentLength = 0;
+    // Calculate segment length based on events...
+    segment.length = segmentLength;
+    totalTime += segmentLength;
 });
 currentComposition.totalLength = totalTime;
 ```
@@ -42,12 +42,12 @@ segment[i].startTime = sum(segment[0...i-1].length)
 ### 2. Calculating Event Positions and Durations
 
 ```javascript
-if (unit.events?.length) {
-    unit.events.forEach(event => {
+if (segment.events?.length) {
+    segment.events.forEach(event => {
         const dur = parseTime(event.duration) || 10;
-        event.computedStart = unitLength;
+        event.computedStart = segmentLength;
         event.computedDuration = dur;
-        unitLength += dur;
+        segmentLength += dur;
     });
 }
 ```
@@ -84,8 +84,8 @@ This scale can be adjusted by the user via the zoom slider (`zoomSlider`).
 ### 2. Segment Positioning
 
 ```javascript
-unitDiv.style.left = (unit.startTime * scale) + 'px';
-unitDiv.style.width = (unit.length * scale) + 'px';
+segmentDiv.style.left = (segment.startTime * scale) + 'px';
+segmentDiv.style.width = (segment.length * scale) + 'px';
 ```
 
 - **Position (left)**: `segment.startTime × scale` pixels
@@ -138,16 +138,16 @@ The player uses the `findEventAtTime()` function to determine which event is act
 
 ```javascript
 function findEventAtTime(time) {
-    for (const unit of currentComposition.units) {
-        if (time >= unit.startTime && time < unit.startTime + unit.length) {
-            const offset = time - unit.startTime;
-            for (const event of unit.events) {
+    for (const segment of currentComposition.segments) {
+        if (time >= segment.startTime && time < segment.startTime + segment.length) {
+            const offset = time - segment.startTime;
+            for (const event of segment.events) {
                 if (offset >= event.computedStart && 
                     offset < event.computedStart + event.computedDuration) {
-                    return { unit, event };
+                    return { segment, event };
                 }
             }
-            return { unit, event: unit.events[0] };
+            return { segment, event: segment.events[0] };
         }
     }
     return null;
