@@ -39,7 +39,7 @@ The Story Player processes project data in a specific JSON format:
 ```
 Project
 └── Compositions
-    └── Segments (formerly "Units")
+    └── Segments
         └── Events
             └── References to Elements
 ```
@@ -60,7 +60,7 @@ Project
 A project contains one or more compositions, each with its own set of segments.
 
 ### Segments
-Each composition contains segments (formerly called "units") which represent scenes or logical divisions within the narrative.
+Each composition contains segments which represent scenes or logical divisions within the narrative.
 
 Segment properties include:
 - `label`: Display name for the segment
