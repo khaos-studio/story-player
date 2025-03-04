@@ -155,6 +155,16 @@ Element properties vary by type but generally include:
 - Active elements are updated whenever the playhead position changes
 - The timeline automatically scrolls to keep the playhead in view
 
+### Timeline Positioning Logic
+- For detailed explanation of the timeline positioning and sizing algorithms, see [Timeline Logic Documentation](timeline_logic.md)
+
+## Additional Documentation
+
+For more detailed technical information about specific components:
+
+- [Timeline Logic Documentation](timeline_logic.md) - Detailed explanation of how segment and event positions/sizes are calculated and rendered
+- [Documentation Roadmap](documentation_roadmap.md) - Outline of additional components that would benefit from detailed documentation for thorough knowledge transfer
+
 ## Getting Started
 
 1. Open index.html in a web browser
